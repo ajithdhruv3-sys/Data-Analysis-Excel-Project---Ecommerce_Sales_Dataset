@@ -48,7 +48,7 @@ The dashboard provides a unified view of business performance, helping stakehold
 
 ## 🛠️ Features
 
-- Fully interactive Power BI dashboard  
+- Fully interactive Excel dashboard  
 - Dynamic filtering  
 - Multi‑chart visualization  
 - Clean and intuitive layout  
